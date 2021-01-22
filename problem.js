@@ -1,6 +1,3 @@
-
-
-
 /*
 	***Kilometer to meter conversion function***
 	This function help you to convert kilometer to meter value
